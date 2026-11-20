@@ -1,0 +1,6 @@
+{
+  "name": "Los Solis V",
+  "description": "Gioco open-world 3D in stile GTA 5 ottimizzato per mobile e touch con città esplorabile, veicoli guidabili, cambio personaggio, ruota armi, missioni e smartphone di gioco.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
